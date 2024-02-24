@@ -1,0 +1,9 @@
+int main;
+
+{
+  int minutes = 5;
+  int seconds;
+
+  seconds = minutes * 60;
+  cout << 'There are ' << seconds << 'sec in ' << minutes << 'min.';
+}
